@@ -1,4 +1,4 @@
-# Singleton - :classical_building: Creational
+# Singleton - :building_construction: Creational
 
 ## Propósito
 
